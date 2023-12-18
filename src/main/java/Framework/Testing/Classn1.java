@@ -32,4 +32,11 @@ public void test1()
 		{
 			System.out.println("Test 4 function is returend");
 		}
+	
+	@Test(groups = "group3")
+	public void test5()
+		
+		{
+			System.out.println("Test 5 function is returend");
+		}
 }
